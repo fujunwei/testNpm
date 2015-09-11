@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "fujunweitestnpm",
   "version": "1.0.0",
   "description": "test npm",
   "main": "index.js",
@@ -18,5 +18,5 @@
   "bugs": {
     "url": "https://github.com/fujunwei/testNpm/issues"
   },
-  "homepage": "https://github.com/fujunwei/testNpm#readme"
+  "homepage": "https://github.com/fujunwei/testNdpm#readme"
 }
