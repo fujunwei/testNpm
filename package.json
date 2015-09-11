@@ -1,6 +1,6 @@
 {
   "name": "fujunweitestnpm",
-  "version": "1.3.0",
+  "version": "1.3.3",
   "description": "test npm",
   "main": "index.js",
   "scripts": {
