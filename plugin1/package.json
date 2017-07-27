@@ -1,0 +1,22 @@
+{
+  "name": "plugin1",
+  "version": "2.0.1",
+  "description": "test npm plugin1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fujunwei/plugin1.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "fujunwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fujunwei/testNpm/issues"
+  },
+  "homepage": "https://github.com/fujunwei/plugin1#readme"
+}
